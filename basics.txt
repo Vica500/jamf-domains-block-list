@@ -17,5 +17,3 @@
 ||app.launchdarkly.com^
 ||mobile.launchdarkly.com^
 ||clientstream.launchdarkly.com^
-(^|\.)jamf\.com$
-(^|\.)jamfcloud\.com$
