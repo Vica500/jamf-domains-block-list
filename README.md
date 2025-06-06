@@ -3,4 +3,5 @@ Blocks all urls reletad to Jamf to break communication between the device and th
 Also add these two as Regex/Wildcard blacklist manually.
 
 (^|\.)jamf\.com$
+
 (^|\.)jamfcloud\.com$
